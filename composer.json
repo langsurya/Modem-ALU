@@ -1,0 +1,17 @@
+{
+    "name": "csoc/Alcatel",
+    "description": "Cek Login Modem ALU",
+    "type": "library",
+    "authors": [
+        {
+            "name": "csoc",
+            "email": "csoc@telkom.co.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "csoc\\Alcatel\\": "src/"
+        },
+        "classmap": ["src/"]
+    }
+}
